@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f13a017f546e1abfc9448f5b2a3f76a3c96a7bc130eb2d1b94d8aa66c8a58cf2"
+            "sha256": "b351386966f232dfac88fda3d1c1a069fbfff9c252b23601a6cb52934c329d81"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -86,6 +86,10 @@
         "cb-django-docusign": {
             "editable": true,
             "path": "./modules/django_docusign"
+        },
+        "cb-django-openai": {
+            "editable": true,
+            "path": "./modules/django_openai"
         },
         "certifi": {
             "hashes": [
