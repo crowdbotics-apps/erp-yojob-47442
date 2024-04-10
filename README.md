@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-onboarding](modules/onboarding)
 - [social-feed]()
 - [django-openai](backend/modules)
+- [django-paypal](backend/modules)
 
 # Getting started: Frontend
 
