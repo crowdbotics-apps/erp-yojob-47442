@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1d9f51d0858b4b8dff2c029a98c0e66503a66296ae2d505b9a90d49cf87cd3b8"
+            "sha256": "f13a017f546e1abfc9448f5b2a3f76a3c96a7bc130eb2d1b94d8aa66c8a58cf2"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -78,6 +78,10 @@
         "cb-django-contact-us": {
             "editable": true,
             "path": "./modules/django_contact_us"
+        },
+        "cb-django-disqus": {
+            "editable": true,
+            "path": "./modules/django_disqus"
         },
         "cb-django-docusign": {
             "editable": true,
@@ -886,7 +890,6 @@
             "version": "==2.22"
         },
         "pyjwt": {
-            "extras": [],
             "hashes": [
                 "sha256:57e28d156e3d5c10088e0c68abb90bfac3df82b40a71bd0daa20c65ccd5c23de",
                 "sha256:59127c392cc44c2da5bb3192169a91f429924e17aff6534d70fdc02ab3e04320"
