@@ -34,6 +34,6 @@ django-import-export = "*"
 drf-spectacular = "~=0.26.4"
 dj-rest-auth = "==5.0.1"
 cb-django-calendly = {editable = true, path = "./modules/django_calendly"}
-cb-django-docusign = {editable = true, path = "./modules/django_docusign"}
 cb-django-disqus = {editable = true, path = "./modules/django_disqus"}
 cb-django-contact-us = {editable = true, path = "./modules/django_contact_us"}
+cb-django-docusign = {editable = true, path = "./modules/django_docusign"}
