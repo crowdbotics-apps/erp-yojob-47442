@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-docusign](backend/modules)
 - [django-disqus](backend/modules)
 - [react-native-onboarding](modules/onboarding)
+- [social-feed]()
 
 # Getting started: Frontend
 
