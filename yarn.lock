@@ -1461,13 +1461,20 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
+"@modules/2fa@file:./modules/2fa/":
+  version "1.0.1"
+  dependencies:
+    react-native-dropdown-picker "^5.4.6"
+    react-native-qrcode-svg "6.1.2"
+    react-native-svg "12.3.0"
+
 "@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
     prop-types "^15.8.1"
     react-native-app-intro-slider "^4.0.4"
 
-"@modules/side-drawer@file:./modules/side-drawer/":
+"@modules/side-drawer@file:./modules/side-drawer":
   version "1.0.0"
 
 "@modules/social-feed@file:./modules/social-feed":
